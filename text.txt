@@ -1,0 +1,21 @@
+1. Variables, Data Types, and Operators  (done)
+2. Conditional Statements    (done)
+3. Loops             (done)
+4. Functions         (done)
+5. Input and Output  (done)
+6. Modules and Packages  (done)
+7. Exception Handling  (done)
+8. File Handling       (
+9. Regular Expressions
+Python OOPs
+10. Classes and Objects
+11. Inheritance
+12.Polymorphism
+13 .Abstraction
+14. Encapsulation
+15. Constructors and Destructors
+16. Method Overloading and Overriding
+17. Class and Instance Variables
+18. Access Modifiers
+19. Composition and Aggregation
+This is the write commandIt allows us to write in a particular file
